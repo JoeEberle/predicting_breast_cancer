@@ -1,3 +1,5 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 2024-05-17 13:44:14,102 - INFO - START predicting_breast_cancer =============================================
 2024-05-17 13:44:14,102 - INFO - START predicting_breast_cancer Start Time = 2024-05-17 13:44:14
 2024-05-17 13:44:14,102 - INFO - predicting_breast_cancer Step 0 - Initialize the configuration file parser
@@ -23,4 +25,6 @@
 2024-05-17 13:44:24,925 - INFO - PERFORMANCE predicting_breast_cancer Low process duration less than 3 minutes:10.82
 2024-05-17 13:44:24,925 - INFO - PERFORMANCE predicting_breast_cancer Performance optimization is optional
 2024-05-17 13:44:24,925 - INFO - END predicting_breast_cancer =============================================
-2024-05-17 13:50:42,304 - INFO - Process MLP Classifier Machine Learning Model - Multi-layer Perceptron classifier
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
