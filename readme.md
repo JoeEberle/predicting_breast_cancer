@@ -181,11 +181,8 @@ To get started with the **Predicting Breast Cancer** solution repository, follow
  ![additional_image](American_cancer_society.png)  <br>![additional_image](predicting_breast_cancer.png)  <br>![additional_image](world_health_organization.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
