@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Predicting Breast Cancer - Machine learning for predicting breast cancer.![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Predicting Breast Cancer 
+    ## Machine learning for predicting breast cancer.
+    ![Image image_filename](code.png)
 ## Pedicting Breast Cancer 
 
 Here’s an updated **README.md** file for the **Predicting Breast Cancer** project, now including the variables used for prediction:
@@ -154,12 +157,15 @@ To get started with the **Predicting Breast Cancer** solution repository, follow
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
