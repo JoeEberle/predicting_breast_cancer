@@ -144,7 +144,7 @@ Contributions are welcome! To contribute:
 This **README.md** provides a clear and structured overview of the project, explaining the variables and machine learning models used for predicting breast cancer. It ensures that users understand the models and the process while giving detailed instructions on how to run the notebook.
 
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
