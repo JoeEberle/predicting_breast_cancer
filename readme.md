@@ -25,7 +25,7 @@
 
 ## Pedicting Breast Cancer 
 
-Here’s an updated **README.md** file for the **Predicting Breast Cancer** project, now including the variables used for prediction:
+Hereâ€™s an updated **README.md** file for the **Predicting Breast Cancer** project, now including the variables used for prediction:
 
 ---
 
