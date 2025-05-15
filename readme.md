@@ -193,13 +193,3 @@ To get started with the **Predicting Breast Cancer** solution repository, follow
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](American_cancer_society.png)  <br>![additional_image](predicting_breast_cancer.png)  <br>![additional_image](world_health_organization.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
