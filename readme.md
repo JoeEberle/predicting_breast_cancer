@@ -4,11 +4,7 @@
 
 ## Machine learning for predicting breast cancer.
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 ## Pedicting Breast Cancer 
 
 Here�s an updated **README.md** file for the **Predicting Breast Cancer** project, now including the variables used for prediction:
@@ -154,13 +150,7 @@ Contributions are welcome! To contribute:
 This **README.md** provides a clear and structured overview of the project, explaining the variables and machine learning models used for predicting breast cancer. It ensures that users understand the models and the process while giving detailed instructions on how to run the notebook.
 
 
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
